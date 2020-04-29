@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: silver;
+    border: 1px solid grey;
+    background-color: darkblue;
+}
+
+a {
+    color: lightblue;
+}
