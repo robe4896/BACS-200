@@ -140,7 +140,7 @@ aside {
     margin: 5px;
     float: left;
     background-color: white;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px deeppink;
     text-align: left;
 }
 
@@ -153,7 +153,7 @@ aside {
     width: 150px;
     margin: 15px;
     background-color: lightgray;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px deeppink;
 }
 
 #side-menu ul li a {
